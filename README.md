@@ -6,7 +6,7 @@ Extension Chrome giúp tạo và sao chép ghi chú đơn đặt hàng khi lên 
 ## Tính năng
 
 - Hỗ trợ loại khách hàng: KWM, KWC, KLM, KLC
-- Hỗ trợ nguồn khách: SGT, DTGR, DTMB, WSS
+- Hỗ trợ nguồn khách: SGT, DTGR, DTMB, WSS, WSS - Đề Xuất
 - Hỗ trợ kênh tương tác: Call, OA, DW, FB
 - Hỗ trợ bán hàng bao kích (BK)
 - Hỗ trợ ghi chú VAT
